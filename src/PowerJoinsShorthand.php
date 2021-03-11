@@ -1,5 +1,7 @@
 <?php
 
+use Kirschbaum\PowerJoins\Builder;
+
 namespace Kirschbaum\PowerJoins;
 
 trait PowerJoinsShorthand {
